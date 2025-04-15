@@ -2,9 +2,9 @@
   "name": "frontend",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",                  // Dev server për zhvillimin lokal
-    "build": "vite build",          // Build për production
-    "preview": "vite preview"       // Preview build-in pas krijimit
+    "dev": "vite",                  
+    "build": "vite build",          
+    "preview": "vite preview"       
   },
   "dependencies": {
     "react": "^18.2.0",
