@@ -18,8 +18,8 @@
     "vite": "^4.5.0"
   },
   "scripts": {
-  "build": "./node_modules/.bin/vite build",
-  "dev": "vite",
-  "preview": "vite preview"
+  "build": "bun install && bun run vite build",
+  "dev": "bun run vite",
+  "preview": "bun run vite preview"
   }
 }
